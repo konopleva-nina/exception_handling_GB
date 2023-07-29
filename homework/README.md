@@ -43,7 +43,7 @@
 
 Разработайте программу, которая выбросит Exception, когда пользователь вводит пустую строку. Пользователю должно показаться сообщение, что пустые строки вводить нельзя.
 
-[Решение]()
+[Решение](https://github.com/konopleva-nina/exception_handling_GB/blob/main/homework/src/task4_sem2.java)
 
 
 
